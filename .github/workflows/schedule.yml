@@ -16,5 +16,5 @@ jobs:
         env:
           TYPE: DAY
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
-          GIST_ID: 7de2a55824ec5e8a78ebc3c57e4ca82b
+          GIST_ID: b58a1d3cd108c790eefec3d54ada4d6b
           RECORDS: "2024-10-22 _ 정보처리기사 자격증 취득 | 2024-09-01 _ 최종 프로젝트 발표"
